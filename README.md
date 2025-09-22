@@ -1,7 +1,7 @@
 freshman @ U-M
 currently know: python, java
 currently learning: c++
-[resume]([url](https://diego-s-college-resume-docx-2.tiiny.site))
+[resume]((https://diego-s-college-resume-docx-2.tiiny.site))
 
 <!---
 isqube/isqube is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
